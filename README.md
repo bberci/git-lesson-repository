@@ -1,4 +1,10 @@
-# git-lesson-repository
-An example repository for the command line workshop in tools and basics module.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
 
-For the problems see the workshop: https://github.com/greenfox-academy/teaching-materials/edit/master/workshop/command-line
+    </body>
+</html>
